@@ -4,6 +4,6 @@ p{
 h1,h3{
   background-color: coral;
 }
-h3{
-  color: blue;
+h1+h3{
+  color: yellow;
 }
